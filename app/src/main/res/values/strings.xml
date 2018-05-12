@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">My Final Project 2</string>
+<string name="Question1">1.What is the capital of India?</string>
+    <string name="Hyd">Hyderabad</string>
+    <string name="Ban">Bangalore</string>
+    <string name="Delhi">New Delhi</string>
+    <string name="Chennai">Chennai</string>
+    <string name="Question2">2.Which is not the programming language?</string>
+    <string name="MAC">MAC</string>
+    <string name="JAVA">JAVA</string>
+    <string name="C">C</string>
+    <string name="Python">Python</string>
+    <string name="Question3">3.Which is not an Operating System?</string>
+    <string name="MS">Microsoft Office</string>
+    <string name="And">Android</string>
+    <string name="Win">Windows</string>
+    <string name="Lin">Linux</string>
+    <string name="Question4">4.Which company developed ANDROID ?</string>
+    <string name="Mic">Microsoft</string>
+    <string name="Google">Google</string>
+    <string name="Int">Intel</string>
+    <string name="Ora">Oracle</string>
+    <string name="question5">5.Which of these are E-Commerce sites in India?</string>
+    <string name="Amazon">Amazon</string>
+    <string name="Flip">Flipkart</string>
+    <string name="Snap">Snapdeal</string>
+    <string name="KFC">KFC</string>
+    <string name="Submit">SUBMIT</string>
+    <string name="Score">Score</string>
+</resources>
